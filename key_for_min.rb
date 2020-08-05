@@ -6,5 +6,8 @@ def key_for_min_value(name_hash)
     if value < 17
     puts name 
   end
+  elsif value < 2 
+  puts name 
 end
+
 end
